@@ -19,9 +19,9 @@ This repository documents classic architecture patterns (monoliths, microservice
 
 Each document below includes requirements, scale assumptions, architecture diagrams, data models, critical flows, and trade-offs—mirroring how system design is approached in real architecture reviews and design discussions.
 
-- [Uber System Design](docs/uber.md)
-- [Spotify System Design](docs/spotify.md)
-- [Netflix System Design](docs/netflix.md)
+- [Uber System Design](docs/uber-system-design.md)
+- [Spotify System Design](docs/spotify-system-design.md)
+- [Netflix System Design](docs/netflix-system-design.md)
 
 You’ll learn:
 - How large-scale systems behave under real production constraints
